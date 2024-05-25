@@ -1,1 +1,1 @@
-# Get_pass_with_commandInjection
+Este repositorio contiene la documentación y el código que resuelve el nivel de "natas 16" de la pagina de desafíos de seguridad "Over the wire". El código es un script en Python que hace una petición GET a la pagina web del nivel de natas 16 y se carga un command injection en el campo de entrada, el cual itera hasta encontrar la constraseña del usuario "natas17".
